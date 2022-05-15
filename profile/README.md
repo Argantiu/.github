@@ -1,5 +1,5 @@
 ## Hi there 👋
-This organization is not ready to use right now...
+This organization is a Minecraft server group, who creates different things for Servermanagement and other things like plugins, mods (still leraning it) and other Game things (not only for Minecraft.
 <!--
 
 **Here are some ideas to get you started:**
