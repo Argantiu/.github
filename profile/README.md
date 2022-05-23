@@ -2,7 +2,7 @@
 This organization is a Minecraft server group, who creates different things for servermanagement and other things like plugins, mods (still leraning it) and other game things (not only for Minecraft.)
 
 #### You can Chat here
-https://github.com/Argantiu/.github/discussions  
+[Discussions](https://github.com/Argantiu/.github/discussions)  
 Have a wonderful day!
 <!--
 
