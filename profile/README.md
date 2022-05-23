@@ -3,7 +3,7 @@ This organization is a Minecraft server group, who creates different things for 
 
 #### You can Chat here
 https://github.com/Argantiu/.github/discussions  
-Have a wonderful day! Argantiu.
+Have a wonderful day!
 <!--
 
 **Here are some ideas to get you started:**
