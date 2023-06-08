@@ -6,5 +6,5 @@ This organization is a Minecraft server group, who creates different things for 
 Have a wonderful day!
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Argantiu&label=Profile%20Views&color=12&icon=5&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=Argantiu&label=Profile%20Views&color=12&icon=1&pretty=false" />
 </p>
